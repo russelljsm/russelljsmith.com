@@ -1,0 +1,6 @@
+.agents/
+.git/
+.site-git/
+deploy/
+*.log
+*.tmp
